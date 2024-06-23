@@ -1,0 +1,19 @@
+ .heading{
+    background-color: aqua;
+ }
+ 
+
+ .paragraph{
+    background-color:red ;
+ }
+
+ .bg-img {
+    background-image: url(./assets/music2.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+ }
+
+ .bg-color {
+    background-color: red;
+    opacity: 0.1;
+ }
